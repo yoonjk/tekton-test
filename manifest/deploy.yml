@@ -14,7 +14,7 @@ spec:
     spec:                   
       containers: 
       - name: nodejs-app 
-        image: joeshiett/nodejs-app:latest
+        image: docker.io/nexweb1/nodejs-app:latest
         ports:
         - containerPort: 8081
 ---
