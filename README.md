@@ -1,3 +1,3 @@
 # Tekton-test
 This repository contains configurations for Tekton Pipeline
-even triggers 3
+even triggers 1
